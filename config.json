@@ -1,0 +1,19 @@
+{
+    "LogPath": "",
+    "SendErrorsInDiscord": false,
+    "DiscordWebhook": "",
+    "Hostname": "EmptyHostname",
+    "VerbosityLevel": "VeryVerbose",
+    "ReadBackup": false,
+    "UseListenCategories": false,
+    "ListenCategories": [
+        "LogTravel"
+    ],
+    "UseIgnoreCategories": false,
+    "IgnoreCategories": [
+        "LogTemp"
+    ],
+    "LoadMaxLinesPerTick": "TODO",
+    "OutputInFile": true,
+    "PollIntervalSec": 30
+}
