@@ -3,7 +3,7 @@ Read dedicated server log and report warnings in discord.
 <br>
 Automatically open new log files if new game server starts.
 
-![ExampleReport](https://raw.githubusercontent.com/koenigigor/UE_LogReader/main/example/ExampleReport.png)
+![ExampleReport](https://raw.githubusercontent.com/koenigigor/UE_LogReader/refs/heads/master/example/ExampleReport.png)
 
 
 ---
